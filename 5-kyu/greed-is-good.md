@@ -1,5 +1,7 @@
-# Greed is Good<sup>5 Kyu</sup>
+# Greed is Good <sup><sup>5 Kyu</sup></sup>
+<sup>
 [LINK TO THE KATA](https://www.codewars.com/kata/5270d0d18625160ada0000e4) - `ALGORITHMS`
+</sup>
 
 ## Description
 Greed is a dice game played with five six-sided dice. Your mission, should you choose to accept it, is to score a throw according to these rules. You will always be given an array with five six-sided dice values.
