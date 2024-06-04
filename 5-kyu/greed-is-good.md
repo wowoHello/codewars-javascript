@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Greed is Good<sup><sup>5 Kyu</sup></sup>
-=======
 # Greed is Good <sup><sup>5 Kyu</sup></sup>
->>>>>>> d97c03fedbbd9a9418118acea2bac185f61e3024
 [LINK TO THE KATA](https://www.codewars.com/kata/5270d0d18625160ada0000e4) - `ALGORITHMS`
 
 
