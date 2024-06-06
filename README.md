@@ -2,7 +2,7 @@
 使用Javascript寫的codewars katas解決方案
 | 目錄 |
 |:----:|
-| [5 kyu](#5-kyu)<br />[6 kyu](#6-kyu)<br />[7 kyu](#7-kyu)|
+| [5 kyu](#5-kyu)<br />[6 kyu](#6-kyu)<br />[7 kyu](#7-kyu)<br />[8 kyu](#8-kyu)|
 
 ## 5 kyu
 * [**Greed is Good**](5-kyu/greed-is-good.md)<br />
